@@ -1,0 +1,2 @@
+# ekosupriyanto
+ Belajar membuat script
